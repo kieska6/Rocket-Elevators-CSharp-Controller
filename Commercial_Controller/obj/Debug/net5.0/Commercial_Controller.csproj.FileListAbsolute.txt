@@ -1,0 +1,15 @@
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.csproj.AssemblyReference.cache
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.AssemblyInfoInputs.cache
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.AssemblyInfo.cs
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.csproj.CoreCompileInputs.cache
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/bin/Debug/net5.0/Commercial_Controller.deps.json
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/bin/Debug/net5.0/Commercial_Controller.runtimeconfig.json
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/bin/Debug/net5.0/Commercial_Controller.runtimeconfig.dev.json
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/bin/Debug/net5.0/Commercial_Controller.dll
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/bin/Debug/net5.0/ref/Commercial_Controller.dll
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/bin/Debug/net5.0/Commercial_Controller.pdb
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.dll
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/ref/Commercial_Controller.dll
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.pdb
+/Users/kieska/Documents/GitHub/Rocket-Elevators-Csharp-Controller/Commercial_Controller/obj/Debug/net5.0/Commercial_Controller.genruntimeconfig.cache
